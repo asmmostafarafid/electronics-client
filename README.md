@@ -9,4 +9,4 @@ MongoDB
 
 Client repo link:  https://github.com/asmmostafarafid/electronics-client
 
-server repo link: 
+server repo link: https://github.com/asmmostafarafid/electronics-server

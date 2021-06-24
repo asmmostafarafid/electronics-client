@@ -7,6 +7,6 @@ Node
 Express
 MongoDB
 
-Client repo link:
+Client repo link:  https://github.com/asmmostafarafid/electronics-client
 
 server repo link: 
